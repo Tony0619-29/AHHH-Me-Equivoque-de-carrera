@@ -34,4 +34,11 @@ AHH ME equivoque de Carrera es una herramienta diseñada para ayudar a los estud
 3. Ofrecer una herramienta gratuita y accesible a estudiantes en todo México.  
 
 ---
+## ✨ **Autores y Colaboradores**  
+
+| ![Creador 1](https://via.placeholder.com/100) | ![Creador 2](https://via.placeholder.com/100) | ![Creador 3](https://via.placeholder.com/100) | ![Creador 4](https://via.placeholder.com/100) | ![Creador 5](https://via.placeholder.com/100) | ![Creador 6](https://via.placeholder.com/100) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **[Nombre del Creador 1](https://github.com/usuario1)** | **[Nombre del Creador 2](https://github.com/usuario2)** | **[Nombre del Creador 3](https://github.com/usuario3)** | **[Nombre del Creador 4](https://github.com/usuario4)** | **[Nombre del Creador 5](https://github.com/usuario5)** | **[Nombre del Creador 6](https://github.com/usuario6)** |
+| Backend | Base de Datos | Docker | Documentación | QA | Coordinación |
+
 
