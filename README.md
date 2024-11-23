@@ -38,7 +38,7 @@ AHH ME equivoque de Carrera es una herramienta diseñada para ayudar a los estud
 
 | ![Creador 1](https://via.placeholder.com/100) | ![Creador 2](https://via.placeholder.com/100) | ![Creador 3](https://via.placeholder.com/100) | ![Creador 4](https://via.placeholder.com/100) | ![Creador 5](https://via.placeholder.com/100) | ![Creador 6](https://via.placeholder.com/100) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **[Nombre del Creador 1](https://github.com/usuario1)** | **[Nombre del Creador 2](https://github.com/usuario2)** | **[Nombre del Creador 3](https://github.com/usuario3)** | **[Nombre del Creador 4](https://github.com/usuario4)** | **[Nombre del Creador 5](https://github.com/usuario5)** | **[Nombre del Creador 6](https://github.com/usuario6)** |
-| Backend | Base de Datos | Docker | Documentación | QA | Coordinación |
+| **[Antonio Medina Montoya](https://github.com/Tony0619-29)** | **[Gaethan Ramos Medina](https://github.com/gramos-GH)** | **[Abner Ruiz Santiago](https://github.com/AbnerR72)** | **[Rosa Esmeralda Flores Harrison](https://github.com/EsmeraraldaFlores)** | **[Julio Cesar Medrano Reyes](https://github.com/Yulsuwu)** | **[Nombre del Creador 6](https://github.com/usuario6)** |
+| Creador | Creador | Creador | Creador | Creador | Creador |
 
 
