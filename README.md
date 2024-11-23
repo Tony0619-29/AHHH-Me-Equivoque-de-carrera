@@ -36,7 +36,7 @@ AHH ME equivoque de Carrera es una herramienta diseñada para ayudar a los estud
 ---
 ## ✨ **Autores y Colaboradores**  
 
-| <img src="https://github.com/Tony0619-29.png" width="100" /> | <img src="https://github.com/gramos-GH.png" width="100" /> | <img src="https://github.com/AbnerR72.png" width="100" /> | <img src="https://github.com/EsmeraraldaFlores.png" width="100" /> | <img src="https://github.com/Yulsuwu.png" width="100" /> ||
+| <img src="https://github.com/Tony0619-29.png" width="100" /> | <img src="https://github.com/gramos-GH.png" width="100" /> | <img src="https://github.com/AbnerR72.png" width="100" /> | <img src="https://github.com/EsmeraraldaFlores.png" width="100" /> | <img src="https://github.com/Yulsuwu.png" width="100" /> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **[Antonio Medina Montoya](https://github.com/Tony0619-29)** | **[Gaethan Ramos Medina](https://github.com/gramos-GH)** | **[Abner Ruiz Santiago](https://github.com/AbnerR72)** | **[Rosa Esmeralda Flores Harrison](https://github.com/EsmeraraldaFlores)** | **[Julio Cesar Medrano Reyes](https://github.com/Yulsuwu)** 
 | Creador | Creador | Creador | Creadora | Creador |
