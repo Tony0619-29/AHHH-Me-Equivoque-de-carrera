@@ -41,6 +41,7 @@ AHH ME equivoque de Carrera es una herramienta diseñada para ayudar a los estud
 | **[Antonio Medina Montoya](https://github.com/Tony0619-29)** | **[Gaethan Ramos Medina](https://github.com/gramos-GH)** | **[Abner Ruiz Santiago](https://github.com/AbnerR72)** | **[Rosa Esmeralda Flores Harrison](https://github.com/EsmeraraldaFlores)** | **[Julio Cesar Medrano Reyes](https://github.com/Yulsuwu)** 
 | Creador | Creador | Creador | Creadora | Creador |
 
-##  **Diseño de La base de datos** 
-<img src="[Diseño De Base de Datos](https://github.com/AHHH-Me-Equivoque-de-carrera/blob/main/AHHHMeEquivoqueDeCarrera_Diseño.jpg)">
+## 💾**Diseño de La base de datos** 
+<img src="https://github.com/AHHH-Me-Equivoque-de-carrera/blob/main/AHHHMeEquivoqueDeCarrera_Diseño.jpg" alt="Diseño De Base de Datos" width="600">
+
 
