@@ -35,6 +35,7 @@ AHH ME equivoque de Carrera es una herramienta diseñada para ayudar a los estud
 4. Evaluar intereses y aptitudes, implementado cuestionarios o pruebas para identificar habilidades, intereses y valores relevantes
 5. Proveer recomendaciones personalizadas, basado en las respuestas del usuario en el test
 6. Ampliar el alcance de la orientación vocacional, ofreciendo apoyo a estudiantes que no tengan acceso a consejería profesional en sus escuelas.
+7. Contribuir al desarrollo profesional temprano, a traves del autoconocimiento de sus preferencias academicas para su futuro universitario.
 
 ---
 ## ✨ **Autores y Colaboradores**  
