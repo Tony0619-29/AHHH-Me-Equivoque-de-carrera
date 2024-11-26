@@ -1,0 +1,39 @@
+{
+	"name": "Spring Enviroment",
+	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+	"image": "mcr.microsoft.com/devcontainers/java:1-21-bullseye",
+
+	"features": {
+		"ghcr.io/devcontainers/features/java:1": {
+			"version": "none",
+			"installMaven": "true",
+			"installGradle": "false"
+		},
+		"ghcr.io/itsmechlark/features/postgresql:1": {
+            "version": "latest"
+        },
+        "ghcr.io/robbert229/devcontainer-features/postgresql-client:1": {
+            "version": "13"
+        }
+	},
+
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	// "forwardPorts": [],
+
+	// Use 'postCreateCommand' to run commands after the container is created.
+	// "postCreateCommand": "java -version",
+
+	// Configure tool-specific properties.
+	"customizations": {
+  // Configure properties specific to VS Code.
+  "vscode": {
+    // Add the IDs of extensions you want installed when the container is created.
+    "extensions": [
+      "vmware.vscode-boot-dev-pack",
+      "vscjava.vscode-java-pack",
+      "cweijan.vscode-postgresql-client2"
+      ]
+    }
+  }
+
+}
