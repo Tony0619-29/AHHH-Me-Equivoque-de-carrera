@@ -59,8 +59,33 @@ Para la realización de este proyecto se requirió la realización de una base d
 5. Pregunta (Es cada una de las preguntas que conforman un test realizado por el usuario.)
 6. Respuesta (Corresponde a cada una de las respuestas a las preguntas que se encuentran en un test.)
 7. Resultado (Es el producto obtenido por cada estudiante en su examen.)
+8. TestxPregunta (Tabla transitiva ubicada entre la entidad TEST y PREGUNTA por cuestiones de relaciones).
 
 📄 **Atributos de las entidades de la base de datos**
+
+1. Usuario:
+     a)idUsuario: identificador único del usuario registrado.
+     b)nombre: nombre del usuario registrado.
+     c)paterno: apellido paterno del usuario registrado.
+     d)materno: apellido materno del usuario registrado.
+     e)correo: correo electrónico del usuario registrado.
+2. Test:
+     a)idTest: identificador único de cada test en cuestión.
+     b)nombre: nombre del test.
+     c)descripción: información breve que indica el contenido y propósito del test.
+     e)fechaCreacion: fecha de creación del test que está realizando el usuario.
+     f)idUsuario: llave foránea que conecta TEST con USUARIO.
+3. Carrera:
+     a)idCarrera: identificador único de cada carrera en cuestión.
+     b)nombre: nombre de la carrera.
+     c)duración: duración de la carrera (años, semestres, trimestres o cuatrimestres).
+     d)descripcion: descripcion de la carrera.
+     e)idUniversidad: llave foránea que conecta CARRERA con UNIVERSIDAD.
+     f)idTest: llave foránea que conecta TEST con CARRERA.
+5. Universidad
+6. Pregunta:
+7. Respuesta:
+8. Resultado:
 
 
 📄 **Interrelaciones entre entidades**
