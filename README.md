@@ -103,5 +103,9 @@ Para la realización de este proyecto se requirió la realización de una base d
      b)pregunta: pregunta del test
      c)tipo: el tipo de la pregunta (aptitud, interes, habilidad, academica)
 9. Respuesta:
-
-10. Resultado:
+     a)idRespuesta: identificador único de cada respuesta
+     b)respuesta: respuesta de cada pregunta
+     c)fechaRespuesta: fecha en la que se registro la respuesta
+     d)idPregunta: llave foránea hacia la entidad Pregunta
+11. Resultado:
+     a)
