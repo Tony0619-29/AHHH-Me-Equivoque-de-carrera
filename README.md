@@ -52,4 +52,8 @@ AHH ME equivoque de Carrera es una herramienta diseñada para ayudar a los estud
 ## 📄 **Descripción de la base de datos**
 Para la realización de este proyecto se requirió la realización de una base de datos que pudiera almacenar los datos de los test que realizan nuestros usuarios diariamente. Para fines de este proyecto se identidicaron las siguientes entidades:
 
+1. Usuario     (Son los usuarios que realizan los test)
+2. Test        (Son los test que los usuarios realizan)
+3. Carrera     (Son las carreras que seran sugeridas con los resultados del test, siendo estas publicas o privadas)
+4. Universidad ()
 
