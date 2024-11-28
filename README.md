@@ -74,7 +74,6 @@ Para la realización de este proyecto se requirió la realización de una base d
 10. Un RESULTADO debe ser generado por muchas RESPUESTAS.
 
 📄 **Atributos de las entidades de la base de datos**
-
 1. Usuario:
      a)idUsuario: identificador único del usuario registrado.
      b)nombre: nombre del usuario registrado.
@@ -95,10 +94,10 @@ Para la realización de este proyecto se requirió la realización de una base d
      e)idUniversidad: llave foránea que conecta CARRERA con UNIVERSIDAD.
      f)idTest: llave foránea que conecta TEST con CARRERA.
 5. Universidad:
-     a)
-     b)
-     c)
-     d)
+     a)idUniversidad: identificador unico de cada universidad
+     b)Nombre: Nombre de la universidad
+     c)Tipo: tipo de la universidad (Publica o Privada)
+     d)Pagina web: URL de la pagina web de la universidad
 7. Pregunta:
 
 8. Respuesta:
