@@ -55,5 +55,5 @@ Para la realización de este proyecto se requirió la realización de una base d
 1. Usuario     (Son los usuarios que realizan los test)
 2. Test        (Son los test que los usuarios realizan)
 3. Carrera     (Son las carreras que seran sugeridas con los resultados del test, siendo estas publicas o privadas)
-4. Universidad ()
+4. Universidad (Son las universidades donde se encuentran esas carreras)
 
