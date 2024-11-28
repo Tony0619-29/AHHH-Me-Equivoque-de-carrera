@@ -94,12 +94,14 @@ Para la realización de este proyecto se requirió la realización de una base d
      e)idUniversidad: llave foránea que conecta CARRERA con UNIVERSIDAD.
      f)idTest: llave foránea que conecta TEST con CARRERA.
 5. Universidad:
-     a)idUniversidad: identificador unico de cada universidad
+     a)idUniversidad: identificador único de cada universidad
      b)Nombre: Nombre de la universidad
      c)Tipo: tipo de la universidad (Publica o Privada)
      d)Pagina web: URL de la pagina web de la universidad
 7. Pregunta:
+     a)idPregunta: identificador único de cada pregunta
+     b)pregunta: pregunta del test
+     c)tipo: el tipo de la pregunta (aptitud, interes, habilidad, academica)
+9. Respuesta:
 
-8. Respuesta:
-
-9. Resultado:
+10. Resultado:
