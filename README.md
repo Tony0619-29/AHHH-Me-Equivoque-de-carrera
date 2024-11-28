@@ -48,4 +48,8 @@ AHH ME equivoque de Carrera es una herramienta diseñada para ayudar a los estud
 ## 💾**Diseño de La base de datos** 
 <img src="AHHHMeEquivoqueDeCarrera_Diseño.jpg" alt="Diseño De Base de Datos" width="600">
 
+---
+## 📄 **Descripción de la base de datos**
+Para la realización de este proyecto se requirió la realización de una base de datos que pudiera almacenar los datos de los test que realizan nuestros usuarios diariamente. Para fines de este proyecto se identidicaron las siguientes entidades:
+
 
