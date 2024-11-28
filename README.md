@@ -47,7 +47,7 @@ AHH ME equivoque de Carrera es una herramienta diseñada para ayudar a los estud
 
 ---
 ## 💾**Diseño de La base de datos** 
-<img src="AHHHMeEquivoqueDeCarrera_Diseño.jpg" alt="Diseño De Base de Datos" width="600">
+<img src= "images/DisenioBaseDeDatos.jpg" width="1000">
 
 ---
 ## **Importante**
