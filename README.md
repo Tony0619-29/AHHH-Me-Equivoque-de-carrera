@@ -108,4 +108,10 @@ Para la realización de este proyecto se requirió la realización de una base d
      c)fechaRespuesta: fecha en la que se registro la respuesta
      d)idPregunta: llave foránea hacia la entidad Pregunta
 11. Resultado:
-     a)
+     a)idResultado: identificador unico de cada resultado que se obtenga
+     b)puntaje: puntaje que se obtuvo en total 
+     c)fecha: fecha en que se realizo el test
+     d)resultado: resultado del test 
+     e)area: area de mayor afinidad (Matematicas/Biologicas/Sociales/Artes)
+     f)descripcion: descripcion adicional al resultado
+     g)idRespuesta: llave foránea hacia la entidad respuestas
