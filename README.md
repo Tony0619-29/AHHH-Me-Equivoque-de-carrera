@@ -56,10 +56,22 @@ Para la realización de este proyecto se requirió la realización de una base d
 2. Test        (Son los test que los usuarios realizan.)
 3. Carrera     (Son las carreras que seran sugeridas con los resultados del test, siendo estas publicas o privadas.)
 4. Universidad (Son las universidades donde se encuentran esas carreras.)
-5. Pregunta (Es cada una de las preguntas que conforman un test realizado por el usuario.)
-6. Respuesta (Corresponde a cada una de las respuestas a las preguntas que se encuentran en un test.)
-7. Resultado (Es el producto obtenido por cada estudiante en su examen.)
+5. Pregunta    (Es cada una de las preguntas que conforman un test realizado por el usuario.)
+6. Respuesta   (Corresponde a cada una de las respuestas a las preguntas que se encuentran en un test.)
+7. Resultado   (Es el producto obtenido por cada estudiante en su examen.)
 8. TestxPregunta (Tabla transitiva ubicada entre la entidad TEST y PREGUNTA por cuestiones de relaciones).
+
+📄 **Interrelaciones entre entidades**
+1. Un USUARIO debe realizar muchos TEST.
+2. Un TEST debe ser realizado por un solo USUARIO.
+3. Un TEST debe sugerir una CARRERA.
+4. Una CARRERA debe ser segurida por varios TEST.
+5. Una CARRERA debe pertenecer a una UNIVERSIDAD.
+6. Una UNIVERSIDAD debe tener muchas CARRERAS.
+7. Una PREGUNTA debe tener muchas RESPUESTAS.
+8. Una RESPUESTA debe tener una PREGUNTA.
+9. Una RESPUESTA debe generar un RESULTADO.
+10. Un RESULTADO debe ser generado por muchas RESPUESTAS.
 
 📄 **Atributos de las entidades de la base de datos**
 
@@ -82,20 +94,13 @@ Para la realización de este proyecto se requirió la realización de una base d
      d)descripcion: descripcion de la carrera.
      e)idUniversidad: llave foránea que conecta CARRERA con UNIVERSIDAD.
      f)idTest: llave foránea que conecta TEST con CARRERA.
-5. Universidad
-6. Pregunta:
-7. Respuesta:
-8. Resultado:
+5. Universidad:
+     a)
+     b)
+     c)
+     d)
+7. Pregunta:
 
+8. Respuesta:
 
-📄 **Interrelaciones entre entidades**
-1. Un USUARIO debe realizar muchos TEST.
-2. Un TEST debe ser realizado por un solo USUARIO.
-3. Un TEST debe sugerir una CARRERA.
-4. Una CARRERA debe ser segurida por varios TEST.
-5. Una CARRERA debe pertenecer a una UNIVERSIDAD.
-6. Una UNIVERSIDAD debe tener muchas CARRERAS.
-7. Una PREGUNTA debe tener muchas RESPUESTAS.
-8. Una RESPUESTA debe tener una PREGUNTA.
-9. Una RESPUESTA debe generar un RESULTADO.
-10. Un RESULTADO debe ser generado por muchas RESPUESTAS.
+9. Resultado:
